@@ -6,4 +6,10 @@ function Catalog(){
     )
 }
 
+export async function getServerProps(){
+
+}
+
+
+
 export default Catalog;

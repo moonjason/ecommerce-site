@@ -1,0 +1,10 @@
+Warm Colors: 
+#D94D5C
+#EBC354
+#EC692D 
+
+Cool Colors: 
+#012169
+#253B80
+#169BD7
+
